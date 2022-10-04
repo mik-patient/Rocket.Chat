@@ -272,7 +272,7 @@
 		"date.js": "~0.3.3",
 		"debug": "~4.1.1",
 		"dompurify": "^2.3.8",
-		"ejson": "^2.2.2",
+		"ejson": "^2.2.3",
 		"emailreplyparser": "^0.0.5",
 		"emojione": "^4.5.0",
 		"eslint-plugin-anti-trojan-source": "^1.1.0",
