@@ -4,7 +4,7 @@
 	"private": true,
 	"devDependencies": {
 		"@rocket.chat/eslint-config": "workspace:^",
-		"@types/jest": "^27.4.1",
+		"@types/jest": "^29.1.1",
 		"eslint": "^8.20.0",
 		"jest": "^27.5.1",
 		"mongodb": "^4.3.1",

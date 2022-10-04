@@ -7,7 +7,7 @@
 		"@rocket.chat/emitter": "next",
 		"@rocket.chat/fuselage-hooks": "next",
 		"@rocket.chat/rest-typings": "workspace:^",
-		"@types/jest": "^27.4.1",
+		"@types/jest": "^29.1.1",
 		"@types/react": "^17.0.47",
 		"@types/use-sync-external-store": "^0.0.3",
 		"eslint": "^8.20.0",

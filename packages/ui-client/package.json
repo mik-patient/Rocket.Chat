@@ -18,7 +18,7 @@
 		"@storybook/manager-webpack4": "~6.5.10",
 		"@storybook/react": "~6.5.10",
 		"@storybook/testing-library": "~0.0.13",
-		"@types/jest": "^27.4.1",
+		"@types/jest": "^29.1.1",
 		"@types/postcss-url": "^10",
 		"@types/react": "~17.0.47",
 		"eslint": "^8.20.0",
